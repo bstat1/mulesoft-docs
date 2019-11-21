@@ -3,4 +3,7 @@ The purpose of this document is to establish best practices and naming conventio
 
 # Naming Conventions
 
+Category | Convention | Pattern | Examples
+--- | --- | --- | ---
+**Mule Projects** | kebab-case | {domain}-{optional subdomain}-{layer}-{type} | businesserror-sys-api</br> H31report-process-file
 
